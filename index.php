@@ -1,4 +1,4 @@
 <?php
-echo "Hola Mundo Master 5dev";
+echo "Hola Mundo Master 6dev";
 ?>
 
